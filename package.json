@@ -1,0 +1,17 @@
+{
+  "name": "janet",
+  "version": "3.0.0",
+  "description": "Module Testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KomDog",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "*",
+    "e621-api": "*",
+    "moment": "*",
+    "request": "*"
+  }
+}

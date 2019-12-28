@@ -1,0 +1,52 @@
+{
+
+    "util":[
+
+        {"name": "Ping", "help": "Pong!"},
+        {"name": "Info", "help": "Display Bot Information"},
+        {"name": "Avatar", "help": "Display User Avatar"},
+        {"name": "Emotes", "help": "Display All Emotes On Server"},
+        {"name": "Share", "help": "Generate Screen Sharing Link"},
+        {"name": "Profile", "help": "Display User Information"},
+        {"name": "Server", "help": "Display Server Information"},
+        {"name": "Help", "help": "You Just Did It!"},
+        {"name": "Events", "help": "Displays KomDog Server Events!"}
+    ],
+
+    "fun":[
+
+        {"name": "8ball <question>", "help": "Ask the Magic 8Ball"},
+        {"name": "Dice <number>", "help": "Roll the Dice"},
+        {"name": "Shoot <user>", "help": "Shoots user"},
+        {"name": "Dog", "help": "Posts Random Dog"},
+        {"name": "Shibe", "help": "Posts Random Shibe"},
+        {"name": "Cat", "help": "Posts Random Cat"},
+        {"name": "Duck", "help": "Posts Random Duck"},
+        {"name": "Write", "help": "Creates a text Image"}
+
+    ],
+
+    "lewd":[
+
+        {"name": "e621 <tags>", "help": "Search e621 For a Post"},
+        {"name": "topyiff", "help": "Gets the daily top yiff"}
+
+    ],
+
+    "moderation":[
+
+        {"name": "Clear <number>", "help": "Clear Messages"},
+        {"name": "Kick <user>", "help": "Kicks A Member"},
+        {"name": "Ban <user>", "help": "Ban A Member"},
+        {"name": "Gag <user>", "help": "Gag A Member"},
+        {"name": "UnGag <user>", "help": "UnGag A Member"}
+
+    ],
+    
+    "owner":[
+
+        {"name": "Broadcast <message>", "help": "Sends a broadcast"}
+
+    ]
+
+}
