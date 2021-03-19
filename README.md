@@ -3,8 +3,6 @@
 `Version 3.0.1`
 Created by [KomDog](https://github.com/komdog)
 
-[`ADD TO YOUR SERVER +`](https://discordapp.com/api/oauth2/authorize?client_id=460225605250711552&permissions=8&scope=bot)
-
 
 ### What is Janet?
 
@@ -53,9 +51,4 @@ Events : Displays KomDog Server Events!
 Broadcast : Sends a broadcast
 ```
 
----
-#### Need Help Or Have Questions? 
-I'm happy to answer any question you want! You can contact me over on my [public discord server](https://discord.gg/GU6t8C3)
 
-#### Creator Links (NSFW)
-[Twitter](https://twitter.com/KomDogArt) | [Art Site](https://komdog.club/) | [Patreon](https://www.patreon.com/komsjar) | [Curious Cat](https://curiouscat.me/KomDog)
