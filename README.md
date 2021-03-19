@@ -19,7 +19,7 @@ Emotes : Display All Emotes On Server
 Share : Generate Screen Sharing Link
 Profile : Display User Information
 Server : Display Server Information
-Help : You Just Did It!
+Help : Displays Help Embed
 ```
 ### Fun Commands
 ```
